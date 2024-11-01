@@ -1,0 +1,16 @@
+{
+    "name": "usuario/atividade-ajax",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\AtividadeAjax\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriel5454",
+            "email": "11gabriel110211@gmail.com"
+        }
+    ],
+    "require": {}
+}
